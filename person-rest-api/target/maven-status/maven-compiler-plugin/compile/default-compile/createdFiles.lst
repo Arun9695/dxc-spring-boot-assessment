@@ -1,0 +1,7 @@
+com\dxc\personrestapi\controllers\PersonController.class
+com\dxc\personrestapi\PersonRestApiApplication.class
+com\dxc\personrestapi\dto\PersonDTO.class
+com\dxc\personrestapi\model\Person.class
+repository\PersonRepository.class
+com\dxc\personrestapi\services\PersonServiceImpl.class
+com\dxc\personrestapi\services\PersonService.class
