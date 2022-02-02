@@ -4,7 +4,7 @@ import java.util.List;
 
 import com.dxc.personrestapi.model.Person;
 
-import repository.PersonRepository;
+import  com.dxc.personrestapi.repository.PersonRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
